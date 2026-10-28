@@ -1,1 +1,3 @@
+Learning Git merge conflicts
 Content from main branch
+Content from feature branch
