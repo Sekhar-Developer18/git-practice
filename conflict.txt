@@ -1,1 +1,1 @@
-Learning git merge conflicts
+Content from feature branch
